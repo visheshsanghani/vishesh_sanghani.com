@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/vishesh_sanghani.com/static/css/main.6ce78ccb.chunk.css",
-    "main.js": "/vishesh_sanghani.com/static/js/main.b3877ccf.chunk.js",
-    "main.js.map": "/vishesh_sanghani.com/static/js/main.b3877ccf.chunk.js.map",
+    "main.js": "/vishesh_sanghani.com/static/js/main.f41704cd.chunk.js",
+    "main.js.map": "/vishesh_sanghani.com/static/js/main.f41704cd.chunk.js.map",
     "runtime-main.js": "/vishesh_sanghani.com/static/js/runtime-main.14cb20cb.js",
     "runtime-main.js.map": "/vishesh_sanghani.com/static/js/runtime-main.14cb20cb.js.map",
     "static/js/2.fda26e51.chunk.js": "/vishesh_sanghani.com/static/js/2.fda26e51.chunk.js",
     "static/js/2.fda26e51.chunk.js.map": "/vishesh_sanghani.com/static/js/2.fda26e51.chunk.js.map",
     "index.html": "/vishesh_sanghani.com/index.html",
-    "precache-manifest.f6e0723286180b2c0ec872ca47e65ed2.js": "/vishesh_sanghani.com/precache-manifest.f6e0723286180b2c0ec872ca47e65ed2.js",
+    "precache-manifest.95e0d29acc5ca2e6a9661aa5dc51fac1.js": "/vishesh_sanghani.com/precache-manifest.95e0d29acc5ca2e6a9661aa5dc51fac1.js",
     "service-worker.js": "/vishesh_sanghani.com/service-worker.js",
     "static/css/main.6ce78ccb.chunk.css.map": "/vishesh_sanghani.com/static/css/main.6ce78ccb.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.14cb20cb.js",
     "static/js/2.fda26e51.chunk.js",
     "static/css/main.6ce78ccb.chunk.css",
-    "static/js/main.b3877ccf.chunk.js"
+    "static/js/main.f41704cd.chunk.js"
   ]
 }

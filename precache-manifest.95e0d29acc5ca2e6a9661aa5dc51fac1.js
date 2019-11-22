@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e966545bcfa821ca72f9d17f5e022ebb",
+    "revision": "f3d621b68e568076f9e4b929770b0623",
     "url": "/vishesh_sanghani.com/index.html"
   },
   {
-    "revision": "1be92484af3cb6cede9e",
+    "revision": "e8c0dfbf42627753bbbc",
     "url": "/vishesh_sanghani.com/static/css/main.6ce78ccb.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vishesh_sanghani.com/static/js/2.fda26e51.chunk.js"
   },
   {
-    "revision": "1be92484af3cb6cede9e",
-    "url": "/vishesh_sanghani.com/static/js/main.b3877ccf.chunk.js"
+    "revision": "e8c0dfbf42627753bbbc",
+    "url": "/vishesh_sanghani.com/static/js/main.f41704cd.chunk.js"
   },
   {
     "revision": "6a6e7a8c3e20ecd20e87",
