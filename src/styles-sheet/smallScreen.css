@@ -1,0 +1,63 @@
+
+@media only screen and (max-width: 600px) {
+
+    /* Image and hiding */
+    .overlay{
+      display: none;
+    }
+    
+    .vis{
+      display: none;
+    }
+    .pic-container:hover .Imageclass{
+      filter: grayscale(100%);
+    }
+    
+    /*Let's Connect */
+    
+    #connect{
+      font-family: 'Times New Roman';
+      font-size: 25px;
+    }
+    
+    #address{
+      font-family: 'Times New Roman';
+      font-size: 15px;
+    }
+    
+    .fa-linkedin{
+      color:blue;
+      font-size: 10px;
+    }
+    
+    
+    .fa-facebook {
+        color: blue;
+        padding:10px;
+        font-size: 10px;
+    }
+    
+    .fa-twitter{
+      color: blue;
+      padding: 10px;
+      font-size: 10px;
+    }
+    
+    .fa-quora{
+      color:red;
+      padding:10px;
+      font-size: 10px;
+    }
+    
+    .fa-github{
+      color: black;
+      font-size: 10px;
+    }
+    
+    
+    /* Hiding Mayank*/
+    #mayank{
+      display: none;
+    }
+    
+    }
